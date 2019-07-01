@@ -1,0 +1,11 @@
+﻿  main.cpp
+j:\downloads\rgb_processingwin\rgb_processingwin\main.cpp(21): warning C4244: 'initializing' : conversion from 'float' to 'const int', possible loss of data
+j:\downloads\rgb_processingwin\rgb_processingwin\main.cpp(56): warning C4244: '/=' : conversion from 'double' to 'float', possible loss of data
+j:\downloads\rgb_processingwin\rgb_processingwin\main.cpp(114): warning C4244: '/=' : conversion from 'double' to 'float', possible loss of data
+j:\downloads\rgb_processingwin\rgb_processingwin\main.cpp(119): warning C4018: '<' : signed/unsigned mismatch
+j:\downloads\rgb_processingwin\rgb_processingwin\main.cpp(120): warning C4018: '<' : signed/unsigned mismatch
+j:\downloads\rgb_processingwin\rgb_processingwin\main.cpp(216): warning C4018: '<' : signed/unsigned mismatch
+j:\downloads\rgb_processingwin\rgb_processingwin\main.cpp(218): warning C4018: '<' : signed/unsigned mismatch
+j:\downloads\rgb_processingwin\rgb_processingwin\main.cpp(251): warning C4244: 'initializing' : conversion from 'unsigned int' to 'float', possible loss of data
+j:\downloads\rgb_processingwin\rgb_processingwin\main.cpp(144): warning C4101: 'stepSize' : unreferenced local variable
+  RGB_ProcessingWin.vcxproj -> J:\Downloads\RGB_ProcessingWin\RGB_ProcessingWin\Debug\RGB_ProcessingWin.exe
